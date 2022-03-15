@@ -1,5 +1,5 @@
-# Création d'un bot Discord permettant d'attribuer des rôles avec des réactions.
+# Création d'un blog (CMS) avec Symfony 6, Bootstrap 5 et EasyAdmin 4
  
 ### YouTube
 
-[![Tutoriel Discord.JS - Ajouter des rôles avec des réactions](https://i3.ytimg.com/vi/sa0FS7o0MeE/maxresdefault.jpg)](https://www.youtube.com/watch?v=sa0FS7o0MeE)
+[![Vidéo](https://i3.ytimg.com/vi/1BbmGc6J7qA/maxresdefault.jpg)](https://www.youtube.com/watch?v=1BbmGc6J7qA)
